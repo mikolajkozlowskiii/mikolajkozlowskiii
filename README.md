@@ -1,8 +1,5 @@
 ### Hi there 👋 
 
-- ⭐ I'm a last year engineering student majoring in Automation and Robotics
-- 🧑🏼‍💻 I gained my first commercial experience as a software developer at BNY Mellon
-- 🔭 Currently working on my engineering thesis
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/miko%C5%82aj-koz%C5%82owski/">LinkedIn</a>
 
 <h3 align="left">Technology Stack</h3>
